@@ -1,4 +1,2 @@
-# influence-based-attributions-can-be-manipulated
-Code for the paper [Influence-based Attributions can be Manipulated](https://arxiv.org/abs/2409.05208)
-
-Will be released upon paper acceptance.
+# Influence Attributions can be Systematically Altered by Model Manipulation
+Code for the AISTATS 2026 paper [Influence Attributions can be Systematically Altered by Model Manipulation](https://arxiv.org/abs/2409.05208)
